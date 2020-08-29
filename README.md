@@ -13,9 +13,9 @@
 ### Contact me:
 
 [<img align="left" alt="nagayev.ru" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Jag_k | VK" width="22px" src="https://simpleicons.org/icons/vk.svg" />][vk]
-[<img align="left" alt="Jag_k | Instagram" width="22px" src="https://simpleicons.org/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Jag_k | Telegram" width="22px" src="https://simpleicons.org/icons/telegram.svg" />][telegram]
+[<img align="left" alt="m.nagayev | VK" width="22px" src="https://simpleicons.org/icons/vk.svg" />][vk]
+[<img align="left" alt="maratnagayev | Instagram" width="22px" src="https://simpleicons.org/icons/instagram.svg" />][instagram]
+[<img align="left" alt="nagayev | Telegram" width="22px" src="https://simpleicons.org/icons/telegram.svg" />][telegram]
 <br />
 
 
@@ -31,7 +31,7 @@
 
 
 [website]: https://nagayev.ru
-[instagram]: https://instagram.com/jag_k_
-[vk]: https://vk.com/bestvkhacker
-[telegram]: https://telegram.me/@nagayev
+[instagram]: https://instagram.com/maratnagayev
+[vk]: https://vk.com/m.nagayev
+[telegram]: https://https://t.me/nagayev
 
